@@ -1,0 +1,28 @@
+.all > div {height: 300px;
+    border: 1px solid white;
+    margin-bottom: 15px;
+
+
+}
+.all > img{
+    height: 300px;
+    border: 1px solid white;
+    margin-bottom: 15px;
+
+}
+
+.green > div{
+    background-color: green;
+
+}
+.yellow > div{
+    background-color: yellow;
+}
+
+.black > div{
+    background-color: black;
+}
+
+.orange > div{
+    background-color: orangered;
+}
